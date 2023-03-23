@@ -1,0 +1,10 @@
+.toptext {
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    transform: translate(25%);
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
